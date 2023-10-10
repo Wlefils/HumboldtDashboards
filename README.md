@@ -1,5 +1,10 @@
 # Executive Summary
 This project involved creating two robust dashboards, curated and designed using Excel and Tableau, aimed at enlightening stakeholders regarding pivotal financial and demographic insights across eight cities within Humboldt County, California. The financial dashboard, based on the data from each city’s Annual Comprehensive Financial Report, provides a clear, concise snapshot of their fiscal health via a suite of calculated financial KPIs for FY 2021. The demographic trends dashboard, powered by a decade's worth of data from the U.S. Census Bureau, reveals each city’s demographic shifts over time. This project emphasized my technical skills and my commitment to aiding stakeholders in making informed decisions by providing accessible, data-driven tools.
+
+## Key Findings
+[Interactive Tableau Dashboards here](https://public.tableau.com/views/HumboldtCountyCitiesDashboard/HumboldtCounty10-YearDemographicTrends?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br>
+[Google Sheets alternative here](https://docs.google.com/spreadsheets/d/1CLqB5KhHkbXOVqWspcsF-ReAd5riIrxw/edit?usp=sharing&ouid=100312081914865605951&rtpof=true&sd=true)
+
 ## Background
 ### Introduction to Humboldt County and Its Cities
 Nestled in the verdant reaches of far Northern California, Humboldt County is home to several cities each with their unique financial and demographic characteristics: Eureka, Arcata, Fortuna, Ferndale, Rio Dell, Blue Lake, and Trinidad. As California has grown in population and economic relevance in the last two decades, this region has unfortunately stagnated and even declined in some areas.
@@ -37,5 +42,24 @@ The U.S. Census Bureau collects a wide swath of data each year via their annual 
 
 #### Dashboard Design and Development
 ##### Initial Implementation in Excel
-The first version of the dashboards was built in Excel. Excel was chosen due to its wide accessibility and familiarity among most stakeholder demographics. The Excel version was then exported to Google Sheets, which allows users who don’t have Excel or Tableau downloaded to intuitively access and understand the dashboard. 
+The first iterations of the dashboards were built in Excel. Excel was chosen due to its wide accessibility and familiarity among most stakeholder demographics. The Excel version was then exported to Google Sheets, which allows users who don’t have Excel or Tableau downloaded to intuitively access and understand the dashboard. 
+
 To construct this initial version, data from each city’s financial statements were compiled into different sheets. This includes their complete FY 2021 Statement of Activities and Statement of Net Position. The Balance Sheet and Program Revenues were also included, although these sheets were not used in the final computation of the KPIs included on the dashboard.
+
+The raw financial data from each city’s Annual Comprehensive Financial Report was manually input into Excel. Similarly, the demographic data from the U.S. Census Bureau was also manually entered into the Excel file. Once the data was entered, I was left with a solid foundation for accurate KPI calculations and subsequent visualization.
+
+![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/48f894a8-d9ac-4a0c-86b4-b0c818108b38)
+
+
+The six financial ratios, as detailed previously, were calculated using simple Excel functions. Formulas were crafted to compute each KPI, ensuring precision and consistency across the data set. Excel provided the capability to perform these calculations efficiently and accurately across multiple data points, pulling data from different sheets to calculate the ratios on another sheet. I then created a table on this sheet, calculating the aforementioned KPIs for each city in one central location.
+##### Designing Interactive Visualizations
+When crafting the financial dashboard in Excel, I used its visualization tools, such as bar charts, to visualize the financial data effectively. I integrated interactive elements, particularly a drop-down menu, to allow users to customize their data view, facilitating a user-friendly experience that enabled easy comparison and analysis across the cities.
+![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/ae083540-1389-43c1-a908-03b0e134acf3)
+
+
+![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/499dda7a-2157-44fe-9f48-b4c6851801ef)
+
+![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/bdf0ea8c-6084-49e9-8a49-4e1cdb1212ec)
+
+![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/6cc42cf6-b0e8-49d5-a9a7-6bf6e74e6dc4)
+

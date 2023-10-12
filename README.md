@@ -6,7 +6,8 @@ This project involved creating two dashboards designed using Excel and Tableau, 
 * Tableau (final deliverable)
 
 ## Key Findings
-![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/bdf0ea8c-6084-49e9-8a49-4e1cdb1212ec)
+<img width="1080" alt="Tableau Financial Dashboard" src="https://github.com/Wlefils/HumboldtDashboards/assets/98787088/d23cb874-c487-4919-a329-4e86f0e91a74">
+
 [Interactive Tableau Dashboards here](https://public.tableau.com/views/HumboldtCountyCitiesDashboard/HumboldtCounty10-YearDemographicTrends?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br>
 [Google Sheets alternative here](https://docs.google.com/spreadsheets/d/1CLqB5KhHkbXOVqWspcsF-ReAd5riIrxw/edit?usp=sharing&ouid=100312081914865605951&rtpof=true&sd=true)
 
@@ -78,7 +79,8 @@ To faciliate a deep dive into each city's financial and demographic data, I crea
 
 While the Excel/Google Sheets implementation of these dashboards proved useful, I felt that Tableau's features would allow me to create more compelling versions that would further assist users in understanding the cities' situations, particularly in the case of the demographic information. After I'd completed the initial implementation, I imported the Excel file into Tableau and created a separate version of the dashboards that is more aesthetically appealing and intuitive.
 
-![image](https://github.com/Wlefils/HumboldtDashboards/assets/98787088/6cc42cf6-b0e8-49d5-a9a7-6bf6e74e6dc4)
+
+<img width="1080" alt="Tableau Demographic Dashboard" src="https://github.com/Wlefils/HumboldtDashboards/assets/98787088/96ce5183-a2d1-427d-a8d1-1ae7d7b0f181">
 
 
 ## Conclusion
@@ -95,5 +97,5 @@ While the Excel/Google Sheets implementation of these dashboards proved useful, 
 * [Tableau Dashboard](https://public.tableau.com/views/HumboldtCountyCitiesDashboard/FinancialKPIs?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 * [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1CLqB5KhHkbXOVqWspcsF-ReAd5riIrxw/edit?usp=sharing&ouid=100312081914865605951&rtpof=true&sd=true)
 * [LinkedIn](https://www.linkedin.com/in/will-lefils-57b838132/)
-* Resume
+* [Resume](https://wlefils.github.io/Will%20LeFils%20Resume.pdf)
 * [Portfolio Homepage](https://wlefils.github.io/)
